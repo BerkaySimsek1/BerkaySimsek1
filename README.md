@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Şimşek</h1>
-<h3 align="center">As a fourth-year Computer Engineering student, I specialize in mobile app development with a focus on creating efficient and user-friendly applications. My academic background, combined with hands-on project experience, has honed my skills in Flutter and Swift for cross-platform and iOS development respectively. I am particularly interested in leveraging technology to solve real-world problems and enhance user experiences. I am open to collaborative opportunities and always eager to tackle new challenges in the field of mobile app development.</h3>
+<h3>As a fourth-year Computer Engineering student, I specialize in mobile app development with a focus on creating efficient and user-friendly applications. My academic background, combined with hands-on project experience, has honed my skills in Flutter and Swift for cross-platform and iOS development respectively. I am particularly interested in leveraging technology to solve real-world problems and enhance user experiences. I am open to collaborative opportunities and always eager to tackle new challenges in the field of mobile app development.</h3>
 
 - 📫 How to reach me **berkay.simsek.098@gmail.com**
 
